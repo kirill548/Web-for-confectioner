@@ -50,7 +50,7 @@ section.banner {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("../img/banner-bg.jpg") center/cover;
+  background: url("banner-bg.jpg") center/cover;
   color: #fcfbfa;
 }
 
@@ -356,7 +356,7 @@ footer p {
 .select .select_cakes,
 .reviews {
   background: linear-gradient(175deg, #fcfbfa, #39312d00),
-    url("../img/загрузка.jfif");
+    url("загрузка.jfif");
 }
 
 .select .select_cakes .select_cake a {
@@ -390,7 +390,7 @@ footer p {
 }
 
 .about {
-  background: url("../img/cute-bakery-banner-with-hand-drawn-line-art-cupcakes-hearts-pastel-background-horizontal-design_654662-5772.avif") center/cover no-repeat;
+  background: url("cute-bakery-banner-with-hand-drawn-line-art-cupcakes-hearts-pastel-background-horizontal-design_654662-5772.avif") center/cover no-repeat;
 }
 
 .about_wrap {
